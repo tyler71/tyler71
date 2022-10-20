@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-- I'm currently working at Seattle Public Schools
 <!--
 **tyler71/tyler71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
