@@ -1,16 +1,18 @@
-### Hi there
 ![Wave](https://canarytokens.com/images/tags/terms/aluhn73b44ly9glhavlzxozhv/submit.aspx)
-<!--
-**tyler71/tyler71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+What are you interested in?
+## [Golang](https://go.dev/)
+- [OpenHeart-Protocol-Golang](https://github.com/tyler71/openheart-protocol-golang) (web server)
+- [Straico-CLI](https://github.com/tyler71/straico-cli) (cli app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [TypeScript](https://www.typescriptlang.org/) / JavaScript
+- [Keygeny](https://github.com/tyler71/keygeny) (client-side SPA for [keygen.sh](https://keygen.sh/))
+- [Site Hydrator](https://sitehydrator.com/) (web design with [Astro](https://astro.build/))
+- [OwlChirp](https://github.com/tyler71/OwlChirp) (vanilla JavaScript with Python Flask backend)
+
+## Dev Ops
+- [LEDStrain Forum](https://github.com/ledstrain/ledstrain-docker) (Built with Github Actions, deployed with Docker to Docker Swarm. Visit the [forum](https://ledstrain.org/))
+
+## Other
+- [Yourls-Quickchart-QR-Code](https://github.com/tyler71/yourls-quickchart-qr-code) (PHP, a tiny extension for [Yourls](https://yourls.org/)
+- [Caddy Domain Validator](https://github.com/tyler71/caddy-domain-validator) (Python, a tiny app for Caddy's [On Demand TLS](https://caddyserver.com/docs/automatic-https#on-demand-tls). It validates based on directory name.
