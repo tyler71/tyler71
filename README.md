@@ -10,7 +10,7 @@ What are you interested in?
 - [Site Hydrator](https://sitehydrator.com/) (web design with [Astro](https://astro.build/))
 - [OwlChirp](https://github.com/tyler71/OwlChirp) (vanilla JavaScript with Python Flask backend)
 
-## Dev Ops
+## DevOps
 - [LEDStrain Forum](https://github.com/ledstrain/ledstrain-docker) (Built with Github Actions, deployed with Docker to Docker Swarm. Visit the [forum](https://ledstrain.org/))
 
 ## Other
