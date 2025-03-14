@@ -16,3 +16,7 @@ What are you interested in?
 ## Other
 - [Yourls-Quickchart-QR-Code](https://github.com/tyler71/yourls-quickchart-qr-code) (PHP, a tiny extension for [Yourls](https://yourls.org/))
 - [Caddy Domain Validator](https://github.com/tyler71/caddy-domain-validator) (Python, a tiny app for Caddy's [On Demand TLS](https://caddyserver.com/docs/automatic-https#on-demand-tls). It validates based on directory name)
+
+## Services I Offer
+- [Site Hydrator](https://sitehydrator.com/) (Website Development & Design, fully static pages and easy to update)
+- [Heart Me](https://heartme.sandcatdev.com/) (Send and Receive Reactions about any website, see [OpenHeart-Protocol-Golang](https://github.com/tyler71/openheart-protocol-golang) for self hosted version)
